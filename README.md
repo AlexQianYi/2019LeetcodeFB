@@ -6,4 +6,4 @@
 > 
 > [3. Longest Substring Without Repeating Characters (最长的没有重复字符的substring，On，用字典记录当前符合条件子串中每个字符的位置，然后如果碰到重复的就更新result和子串的长度)] 
 > 
-> [6. ZigZag Conversion (HashMap，注意要返回的是索引)] 
+> [6. ZigZag Conversion](https://github.com/AlexQianYi/2019LeetcodeFB/blob/master/6.%20ZigZag%20Conversion.md) 把string转换成Z字型
