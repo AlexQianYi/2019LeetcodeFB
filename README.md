@@ -7,3 +7,7 @@
 > [3. Longest Substring Without Repeating Characters (最长的没有重复字符的substring，On，用字典记录当前符合条件子串中每个字符的位置，然后如果碰到重复的就更新result和子串的长度)] 
 > 
 > [6. ZigZag Conversion](https://github.com/AlexQianYi/2019LeetcodeFB/blob/master/6.%20ZigZag%20Conversion.md) 把string转换成Z字型
+> 
+> [7. Reverse Integer (把一个32位的int翻转，不过要注意溢出的情况，直接转换成字符串就行了)] 
+> 
+> [8. String to Integer (要求贼多，刚开始空格不考虑，-或者+或者数字开始转换，遇到空格或者其他非数字的停止，溢出返回最大或者最小)] 
