@@ -35,3 +35,7 @@
 > [26. Remove Duplicates from Sorted Array (把重复的数字移到数组的最后面然后返回修改后的没有重复数字的数组的长度，两个指针就行了)] 
 > 
 > [28. Implement strStr() (返回子串的位置)] 
+> 
+> [29. Divide Two Integers (实现两个数相除，可以用除数翻倍的方法来减少被除数和除数相减的次数)] 
+> 
+>  [32. Longest Valid Parentheses](https://github.com/AlexQianYi/2019LeetcodeFB/blob/master/6.%20ZigZag%20Conversion.md) 
