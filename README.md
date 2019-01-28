@@ -38,4 +38,12 @@
 > 
 > [29. Divide Two Integers (实现两个数相除，可以用除数翻倍的方法来减少被除数和除数相减的次数)] 
 > 
->  [32. Longest Valid Parentheses](https://github.com/AlexQianYi/2019LeetcodeFB/blob/master/6.%20ZigZag%20Conversion.md) 
+>  [32. Longest Valid Parentheses](https://github.com/AlexQianYi/2019LeetcodeFB/blob/master/32.%20Longest%20Valid%20Paratheses.md) 动态规划
+> 
+> [33. Search in Rotated Sorted Array (数组从某个位置翻转了，然后找特定的元素，其实还是二分查找，区别就是数组中的有一半是有序的，另一半是无序的)] 
+> 
+> [34. Find First and Last Position of Element in Sorted Array (二分查找)] 
+> 
+> [36. Valid Sudoku (数独验证)] 
+> 
+> [42. Trapping Rain Water](https://github.com/AlexQianYi/2019LeetcodeFB/blob/master/32.%20Longest%20Valid%20Paratheses.md) 从左往右遍历一遍，再从右往左遍历一遍
