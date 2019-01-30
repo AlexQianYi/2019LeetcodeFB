@@ -46,4 +46,22 @@
 > 
 > [36. Valid Sudoku (数独验证)] 
 > 
-> [42. Trapping Rain Water](https://github.com/AlexQianYi/2019LeetcodeFB/blob/master/32.%20Longest%20Valid%20Paratheses.md) 从左往右遍历一遍，再从右往左遍历一遍
+> [42. Trapping Rain Water](https://github.com/AlexQianYi/2019LeetcodeFB/blob/master/42.%20Trapping%20Rain%20Water.md) 从左往右遍历一遍，再从右往左遍历一遍
+> 
+> [46. Permutations (DFS)] 
+> 
+> [47. Permutations II (返回的是唯一的，多个排序就好了)] 
+> 
+> [48. Rotate Image (访问四分之一就行了)] 
+> 
+> [49. Group Anagrams (字典)] 
+> 
+> [51. N-Queens (DFS)] 
+> 
+> [53. Maximum Subarrray (连续子串最大和问题，没啥好说的)] 
+> 
+> [55. Jump Game (维护一个变量，保存能到达的最远的位置，far = max(far, nums[i]+i)] 
+> 
+> [56. Merge Intervals (把所有有重叠的区间都合并了，先根据start都排序，然后比较end)] 
+> 
+> 
